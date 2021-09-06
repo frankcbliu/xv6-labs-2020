@@ -1,0 +1,15 @@
+
+xv6 kernel is booting
+
+hart 2 starting
+hart 1 starting
+init: starting sh
+$ mkdir LdbIX27l
+$ echo > LdbIX27l/DUwjR6uL
+$ mkdir LdbIX27l/YNFCnF57
+$ echo > LdbIX27l/YNFCnF57/DUwjR6uL
+$ mkdir rGrKKlOV
+$ echo > rGrKKlOV/DUwjR6uL
+$ find . DUwjR6uL
+exec find failed
+$ qemu-system-riscv64: terminating on signal 15 from pid 56251 (<unknown process>)
